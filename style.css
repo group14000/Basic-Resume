@@ -1,0 +1,20 @@
+h3{
+    padding-top: 2px;
+    padding-right: 500px;
+    padding-bottom: 100px;
+    padding-left: 600px;
+}
+img{
+    float: left;
+    padding: 0%;
+}
+.personal{
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 100px;
+    padding-left: 1000px;
+}
+table,th,td{
+    border: 1px solid black;
+}
